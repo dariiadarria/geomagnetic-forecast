@@ -1,0 +1,38 @@
+.main-header {
+    font-size: 2.5rem;
+    color: #1E3A8A;
+    text-align: center;
+    margin-bottom: 2rem;
+}
+.metric-card {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    padding: 1rem;
+    border-radius: 10px;
+    margin: 0.5rem 0;
+}
+.alert-high {
+    background-color: #FECACA;
+    border-left: 5px solid #DC2626;
+    padding: 1rem;
+    border-radius: 5px;
+}
+.alert-medium {
+    background-color: #FEF3C7;
+    border-left: 5px solid #D97706;
+    padding: 1rem;
+    border-radius: 5px;
+}
+.alert-low {
+    background-color: #D1FAE5;
+    border-left: 5px solid #059669;
+    padding: 1rem;
+    border-radius: 5px;
+}
+.prediction-card {
+    background: #f8f9fa;
+    border-radius: 10px;
+    padding: 1.5rem;
+    margin: 1rem 0;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}

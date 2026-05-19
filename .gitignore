@@ -216,3 +216,18 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Data files
+data/raw/
+data/processed/
+data/kaggle/
+*.csv
+
+# Models
+*.pkl
+*.joblib
+models/
+
+# OS
+.DS_Store
+Thumbs.db
